@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(98, 149, 132);
+  color: rgb(226, 241, 231);
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+}
+
+.about-section {
+  padding: 40px 20px;
+  background-color: rgba(36, 54, 66); 
+  border-radius: 10px;
+  max-width: 1200px; 
+  margin: 50px auto; 
+  scroll-margin-top: 80px;
+}
+
+.profile{
+  max-width: 300px;
+}
